@@ -1,0 +1,10 @@
+#!/bin/bash
+# Author : Sai
+# Date of created : 04-july-2021
+# Description : FIrst file in git creation
+
+echo
+echo ---------------
+echo ------------------
+echo --------------------
+echo " This is the first file created in the mumbai region ".
