@@ -1,0 +1,6 @@
+#!/bin/bash
+# Author : Sai
+# Description: Defining to search with *.class file
+# Date of created: 04-july-2021
+
+*.class
