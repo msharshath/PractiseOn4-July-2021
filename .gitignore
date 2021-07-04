@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author : Sai
+# Date of Created : 04-july-2021
+# Description : Defines of the files to ignore
+
+
+*.class
